@@ -1,4 +1,4 @@
-# SdukuGame_ComputerVision
+# SudokuGame_ComputerVision
 This project revolves around building a comprehensive Sudoku application that stands out from typical puzzle games by adding a feature that detects the number of fingers a user shows to his camera to fill the cells of the sudoku.
 
 I first started by creating a class to fully generate a Sudoku Puzzle:
